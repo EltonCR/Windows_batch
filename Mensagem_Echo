@@ -1,0 +1,4 @@
+@ECHO OFF
+SET NOME=Existe cenario ?
+ECHO Existe cenario ?
+PAUSE
