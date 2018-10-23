@@ -1,0 +1,10 @@
+@ECHO OFF
+ECHO Exite cenario na DSS?
+SET /P var1="Valor: "
+IF  "%var1%" == "S" (
+	ECHO Pegou o trace?
+)
+IF  "%var1%" == "N" (
+	ECHO E na TSS?
+)
+PAUSE
