@@ -1,2 +1,2 @@
 # Windows_batch
-Comandos Windows Batch
+Comandos básicos em Windows Batch.
